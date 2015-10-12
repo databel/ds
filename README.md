@@ -1,4 +1,3 @@
-# Data Science in 30 Minutes
 A quick demo illustrating a few data science techniques, and all in 30 minutes!
 
 ## Requirements:
