@@ -1,4 +1,4 @@
-A quick demo illustrating a few data science techniques, and all in 30 minutes!
+A quick demo illustrating a few data science techniques.
 
 ## Requirements:
 You'll need to install the requirements
